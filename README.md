@@ -1,4 +1,4 @@
-## AI PDF Summarizer & Quiz Generator
+# AI PDF Summarizer & Quiz Generator
 
 An AI-powered PDF Summarizer built with Python, Streamlit, and GPT-3.5, designed to help users quickly understand long documents and generate quizzes for revision.
 
@@ -40,17 +40,16 @@ dotenv
 
 ## Installation
 1. Clone the repository
-git clone https://github.com/your-username/pdf-summarizer.git
-cd pdf-summarizer
+   git clone https://github.com/Snehapattar22/pdf_summarizer.git
+   cd pdf-summarizer
 
 2️. Install dependencies
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Add your API Key
-
-Create a .env file:
+   Create a .env file:
 
 OPENAI_API_KEY=your_api_key
 
 4️. Run the App
-streamlit run app.py
+   streamlit run app.py
