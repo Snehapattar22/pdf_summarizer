@@ -43,7 +43,7 @@ dotenv
    git clone https://github.com/Snehapattar22/pdf_summarizer.git
    cd pdf-summarizer
 
-2️. Install dependencies
+2. Install dependencies
    pip install -r requirements.txt
 
 3. Add your API Key
@@ -51,5 +51,5 @@ dotenv
 
 OPENAI_API_KEY=your_api_key
 
-4️. Run the App
+4. Run the App
    streamlit run app.py
